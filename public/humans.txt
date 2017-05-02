@@ -1,0 +1,19 @@
+/* TEAM
+============================================================= */
+
+  The Front End: Themefisher
+
+  Back End: Luiz Carvalho
+  Site: luizcarvalho.com
+  E-mail: contato(at)luizcarvalho(dot)com
+  Location: Palmas, Tocantins, Brasil
+
+
+/* PROJECT
+============================================================= */
+
+  Name: CHatbot
+  Last update: 04/2017
+  Language: pt-br
+  Technology: Ruby on Rails, HTML5, CSS3, JavaScript
+  Softwares: Sublime Text 3, Inkscape
